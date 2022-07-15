@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(36, 36, 39);
+    text-align: center;
+}
+h1{
+    color: white;
+    text-shadow: 3px 2px 2px  rgb(163, 158, 158);
+    font-size: 80px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+button{
+    font-size:100px;
+    border-radius: 8px;
+    margin: 20px;
+    box-shadow: 4px 4px 0px rgb(76, 75, 75);
+    border-color: white;
+    
+    
+}
+.container{
+  padding-top: 100px;
+ 
+} 
+footer{
+    font-size: 15px;
+    color: white;
+    margin-top: 100px;
+}
+.W{
+    padding-left: 30px;
+    padding-right: 30px;
+  
+    
+}
+.A{
+    padding-left: 30px;
+    padding-right: 30px;}
+.S,.D,.J,.K,.L{
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.W{
+background-image:url(tom1.png);
+color: rgb(163, 158, 158);
+
+}
+.A{
+    background-image: url(tom2.png);
+    color: rgb(163, 158, 158);
+}
+.S{
+    background-image: url(tom3.png);
+    color: rgb(163, 158, 158);
+}
+.D{
+    background-image: url(tom4.png);
+    color: rgb(163, 158, 158);
+}
+.J{
+    background-image: url(crash.png);
+    color: rgb(163, 158, 158);
+}
+.K{
+    background-image: url(kick.png);
+    color: rgb(163, 158, 158);
+}
+.L{
+    background-image:url(snare.png);
+    color: rgb(163, 158, 158);
+}
+.anime{
+    box-shadow:0px 3px 4px 2px rgb(233, 227, 227);
+    opacity:0.5;
+    
+}
